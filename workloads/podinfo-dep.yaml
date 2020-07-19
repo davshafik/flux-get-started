@@ -73,5 +73,3 @@ spec:
           requests:
             cpu: 10m
             memory: 64Mi
-        - name: PODINFO_UI_MESSAGE
-          value: "5araaaa bel kosbaraaa"
